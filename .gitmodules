@@ -1,0 +1,3 @@
+[submodule "geeksquad"]
+	path = geeksquad
+	url = https://github.com/black-jack-j/geeksquad.git
